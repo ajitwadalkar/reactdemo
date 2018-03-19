@@ -43,7 +43,6 @@ html, body {
 #loginbox
 {
   width: 30%;
-  min-width: 302px;
   height: 320px;
   background-color: #f5f5f0;
   border-radius: 15px;
